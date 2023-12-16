@@ -17,7 +17,7 @@ eleventyNavigation:
 * 1978: The Little Red Blue Book
 * 1977: A Songbook
 * 1977: The Class Struggle in Portugal
-* 1974: A Dossier of Class Struggle in Britain & Abroad
+* 1974: [A Dossier of Class Struggle in Britain & Abroad](/red_notes/dossier_class_struggle.html)
 * 1974: Workers' Struggles and the Development of Ford in Britain
 
 
