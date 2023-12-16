@@ -7,16 +7,17 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+# About
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.dev), with deployment to [Netlify](https://www.netlify.com).
+Red Notes is a publisher of radical political texts based in London, largely based on radical movements in the UK and Italy in the 1970s.
 
-Includes [Decap CMS](https://www.decapcms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-[Log in to the Decap CMS dashboard](/admin/)
-
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+# Links
+ 
+* [The LSE Red Notes Archive](http://www2.lse.ac.uk/library/archive/rare_books/red_notes.aspx)
+* [Generation Online](http://www2.lse.ac.uk/library/archive/rare_books/red_notes.aspx)
+* [Multitudes](http://multitudes.samizdat.net/)
+* [Libcom](http://multitudes.samizdat.net/)
+* [Recomposition](http://recomposition.info/)
+* [Midnight Notes](http://midnightnotes.org/mnpublic.html)
+* [Big Flame](http://midnightnotes.org/mnpublic.html)
+* [Harry Cleaver ](http://midnightnotes.org/mnpublic.html)
