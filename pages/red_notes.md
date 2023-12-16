@@ -4,7 +4,7 @@ metaDescription: Red Notes publications
 date: 2017-01-01T00:00:00.000Z
 permalink: /red_notes/index.html
 eleventyNavigation:
-  key: Red_Notes
+  key: Red Notes
   order: 3
 ---
 * 2000: Dario Fo and Franca Rame Conference
