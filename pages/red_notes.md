@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 3
 ---
 * 2000: Dario Fo and Franca Rame Conference
-* 1988: Toni Negri: Revolution Retrieved
+* 1988: [Toni Negri - Revolution Retrieved](/red_notes/revolution_retrieved.html)
 * 1983: Dario Fo and Franca Rame Theatre Workshops
 * 1983: The Italian Inquisition
 * Italy 1980-81: After Marx, Jail!
