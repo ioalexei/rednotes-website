@@ -17,4 +17,4 @@ Chronology of the Oil Crisis
 Notes on America 1964-74
 Notes on Agriculture
 
-{% /img/01-class-struggle-74-72dpi-sm.JPEG %}
+![Front cover](/static/img/01-class-struggle-74-72dpi-sm.JPEG)
