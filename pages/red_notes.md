@@ -16,7 +16,7 @@ eleventyNavigation:
 * 1979:  Working Class Autonomy and the Crisis
 * 1978: The Little Red Blue Book
 * 1977: A Songbook
-* 1977: The Class Struggle in Portugal
+* 1977: [The Class Struggle in Portugal](/red_notes/class_struggle_portugal.html)
 * 1974: [A Dossier of Class Struggle in Britain & Abroad](/red_notes/dossier_class_struggle.html)
 * 1974: Workers' Struggles and the Development of Ford in Britain
 
