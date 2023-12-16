@@ -5,6 +5,7 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /red_notes/dossier_class_struggle.html
 ---
 A DOCUMENTATION OF CLASS STRUGGLE IN 1974
+
 Introduction
 A Chronology of Strikes in Britain
 Immigrant Workers in Struggle
@@ -15,3 +16,5 @@ Class Struggle in Italy
 Chronology of the Oil Crisis
 Notes on America 1964-74
 Notes on Agriculture
+
+{% /img/01-class-struggle-74-72dpi-sm.JPEG %}
