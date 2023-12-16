@@ -7,7 +7,6 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-# About
 Red Notes is a publisher of radical political texts based in London, largely based on radical movements in the UK and Italy in the 1970s.
 
 # Links
